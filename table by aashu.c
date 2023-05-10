@@ -18,6 +18,7 @@ int main()
     printf("%d\n",a*8);
     printf("%d\n",a*9);
     printf("%d\n",a*10);
+    printf("12455");
     
     return 0;
 }
